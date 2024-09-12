@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hi, my name is Denise! I'm a third year student at the University of Toronto studying Mathematics and Statistics (majors) and Computer Science (minor).
